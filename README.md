@@ -38,7 +38,7 @@ I'm driven by writing clean, maintainable code and building solutions that make 
 
 ### 🚀 Projects & Experience Highlights
 
-**- **Climate Resilience Platform @Remote (2025– to date):**  
+ - **Climate Resilience Platform @Remote (2025– to date):**  
   Developed a cloud-based early warning and analytics system using ASP.NET Core and Python (FastAPI), enabling real-time climate data integration and decision support across sectors.
   
 - **USEFP Web Applications (2021–2024):**  
