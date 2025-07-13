@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate and versatile **Full Stack Software Developer** with over **8 years of hands-on experience** in building scalable, secure, and user-friendly applications across **education, health, humanitarian, and cybersecurity domains**. I specialize in full lifecycle software development, backend architecture, and API integrations.
+I’m a passionate and versatile **Full Stack Software Developer** with over **9 years of hands-on experience** in building scalable, secure, and user-friendly applications across **education, health, humanitarian, and cybersecurity domains**. I specialize in full lifecycle software development, backend architecture, and API integrations.
 
 I'm driven by writing clean, maintainable code and building solutions that make an impact. Whether working on a scholarship management portal, a cyber threat dashboard, or a mobile app backend — I focus on delivering value through technology.
 
@@ -38,6 +38,9 @@ I'm driven by writing clean, maintainable code and building solutions that make 
 
 ### 🚀 Projects & Experience Highlights
 
+**- **Climate Resilience Platform @Remote (2025– to date):**  
+  Developed a cloud-based early warning and analytics system using ASP.NET Core and Python (FastAPI), enabling real-time climate data integration and decision support across sectors.
+  
 - **USEFP Web Applications (2021–2024):**  
   Designed and developed unified scholarship platforms, alumni systems, and the EducationUSA app backend using ASP.NET Core, ColdFusion, and Python.
 
