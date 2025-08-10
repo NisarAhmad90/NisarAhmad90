@@ -26,7 +26,7 @@ I'm driven by writing clean, maintainable code and building solutions that make 
 `HTML5` | `CSS3` | `Bootstrap` | `Angular Material UI` | `jQuery` | `AJAX`
 
 **API & Integrations:**  
-`REST APIs` | `Web API` | `JSON/XML` | `API Testing` with Postman | `Docker
+`REST APIs` | `Web API` | `JSON/XML` | `API Testing` with Postman | `Docker`
 
 **Tools & Platforms:**  
 `Visual Studio` | `VS Code` | `Git` | `IIS` | `SSMS` | `Jira` | `Trello`
